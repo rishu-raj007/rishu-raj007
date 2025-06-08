@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Rishu Raj
 
-<!--
-**rishu-raj007/rishu-raj007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Enthusiast | Cloud-Native Explorer | Lifelong Learner
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m passionate about building scalable, automated infrastructure and streamlining software delivery using modern DevOps practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- 🌍 **Terraform** – Infrastructure as Code
+- 🐳 **Docker** – Containerization for reliable deployments
+- ⚙️ **YAML Pipelines** – CI/CD with precision
+- ☸️ **Kubernetes** – Orchestrating containers at scale
+- ⚛️ **ReactJS** – Frontend engineering with a modern twist
+
+## 🔭 Current Projects
+
+I’m currently working on DevOps-focused projects that involve:
+- Building end-to-end CI/CD pipelines
+- Automating cloud resource provisioning
+- Creating reusable infrastructure modules
+
+## 📫 Connect with Me
+
+- GitHub: [rishu-raj007](https://github.com/rishu-raj007)
+
+---
+
+Thanks for stopping by! 🌟
