@@ -6,6 +6,7 @@ Welcome to my GitHub! I’m passionate about building scalable, automated infras
 
 ## 🛠️ Tech Stack
 
+- ☁️ **Azure Cloud** – Building and managing cloud-native applications
 - 🌍 **Terraform** – Infrastructure as Code
 - 🐳 **Docker** – Containerization for reliable deployments
 - ⚙️ **YAML Pipelines** – CI/CD with precision
@@ -22,6 +23,7 @@ I’m currently working on DevOps-focused projects that involve:
 ## 📫 Connect with Me
 
 - GitHub: [rishu-raj007](https://github.com/rishu-raj007)
+- LinkedIn: [rishu-ravi-raj](https://www.linkedin.com/in/rishu-ravi-raj)
 
 ---
 
