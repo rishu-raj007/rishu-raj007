@@ -29,12 +29,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Certifications & Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishu-raj007&show_icons=true&theme=radical" alt="Rishu's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishu-raj007&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+- 🎓 *Microsoft Certified: Azure Fundamentals* *(in progress / achieved)*
+- 🎓 *Certified Kubernetes Administrator (CKA)* *(optional placeholder)*
+- 📘 Always learning: SRE best practices, GitOps, advanced observability
+
 
 ---
 
