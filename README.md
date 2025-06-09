@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=DevOps+Enthusiast;Cloud-Native+Learner;Infrastructure+as+Code+%F0%9F%92%BB;CI%2FCD+Pipeline+Builder;Kubernetes+%7C+Terraform+%7C+Azure+Fan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=DevOps+Enthusiast;Cloud-Native+Learner;Infrastructure+as+Code+%F0%9F%92%BB;CI%2FCD+Pipeline+Builder;Kubernetes+%7C+Terraform+%7C+Azure" alt="Typing SVG" />
 </p>
 
 ---
@@ -31,8 +31,8 @@
 
 ## 📚 Certifications & Learning
 
-- 🎓 *Microsoft Certified: Azure Fundamentals* *(in progress / achieved)*
-- 🎓 *Certified Kubernetes Administrator (CKA)* *(optional placeholder)*
+- 🎓 *Microsoft Certified: Azure Fundamentals (AZ900)* *(in progress)*
+- 🎓 *Kubernetes Administrator* 
 - 📘 Always learning: SRE best practices, GitOps, advanced observability
 
 
