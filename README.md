@@ -1,30 +1,50 @@
-# 👋 Hi, I'm Rishu Raj
-
-🚀 DevOps Enthusiast | Cloud-Native Explorer | Lifelong Learner
-
-Welcome to my GitHub! I’m passionate about building scalable, automated infrastructure and streamlining software delivery using modern DevOps practices.
-
-## 🛠️ Tech Stack
-
-- ☁️ **Azure Cloud** – Building and managing cloud-native applications
-- 🌍 **Terraform** – Infrastructure as Code
-- 🐳 **Docker** – Containerization for reliable deployments
-- ⚙️ **YAML Pipelines** – CI/CD with precision
-- ☸️ **Kubernetes** – Orchestrating containers at scale
-- ⚛️ **ReactJS** – Frontend engineering with a modern twist
-
-## 🔭 Current Projects
-
-I’m currently working on DevOps-focused projects that involve:
-- Building end-to-end CI/CD pipelines
-- Automating cloud resource provisioning
-- Creating reusable infrastructure modules
-
-## 📫 Connect with Me
-
-- GitHub: [rishu-raj007](https://github.com/rishu-raj007)
-- LinkedIn: [rishu-ravi-raj](https://www.linkedin.com/in/rishu-ravi-raj)
+<h1 align="center">Hi 👋, I'm Rishu Raj</h1>
+<h3 align="center">DevOps Engineer | Azure Cloud | Automation Lover | CI/CD Specialist</h3>
 
 ---
 
-Thanks for stopping by! 🌟
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=DevOps+Enthusiast;Cloud-Native+Learner;Infrastructure+as+Code+%F0%9F%92%BB;CI%2FCD+Pipeline+Builder;Kubernetes+%7C+Terraform+%7C+Azure+Fan" alt="Typing SVG" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+- ☁️ **Azure Cloud** – Cloud-native services & architecture
+- 🌍 **Terraform** – Infrastructure as Code (IaC)
+- 🐳 **Docker** – Lightweight containerization
+- ⚙️ **YAML Pipelines** – CI/CD in Azure DevOps
+- ☸️ **Kubernetes** – Container orchestration at scale
+- ⚛️ **ReactJS** – Frontend with modern JavaScript
+
+---
+
+## 🔭 Current Focus
+
+- 🔧 Building scalable CI/CD pipelines
+- ☁️ Automating cloud provisioning with Terraform & Azure
+- 📦 Containerizing applications using Docker & K8s
+- 📈 Learning advanced DevOps practices and site reliability engineering (SRE)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishu-raj007&show_icons=true&theme=radical" alt="Rishu's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishu-raj007&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rishu-ravi-raj)
+- 💻 [GitHub](https://github.com/rishu-raj007)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishu-raj007&label=Profile+Views&color=blueviolet&style=flat" alt="rishu-raj007" />
+</p>
