@@ -37,7 +37,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishu-raj007&label=Profile+Views&color=blueviolet&style=flat" alt="rishu-raj007" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rishu-raj007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -53,13 +57,15 @@
 
 ---
 
-## 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rishu-ravi-raj)  
-- 💻 [GitHub](https://github.com/rishu-raj007)  
-
----
+## 🏅 Badges & Achievements
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishu-raj007&label=Profile+Views&color=blueviolet&style=flat" alt="rishu-raj007" />
-</p>
+  <img src="https://img.shields.io/badge/Azure-Cloud-blue?style=flat-square&logo=microsoftazure" alt="Azure Badge" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-5C4EE5?style=flat-square&logo=terraform" alt="Terraform Badge" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker" alt="Docker Badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes" alt="Kubernetes Badge" />
+  <img src="https://img.shields.io/badge/Azure--DevOps-CI%2FCD-0078D7?style=flat-square&logo=azuredevops" alt="Azure DevOps Badge" />
+  <img src="https://img.shields.io/badge/ReactJS-Frontend-61DAFB?style=flat-square&logo=react" alt="React Badge" />
+  <img src="https://img.shields.io/badge/YAML-Pipelines-F28D1A?style=flat-square&logo=yaml" alt="YAML Badge" />
+  <img src="https://img.shields.io/badge/AZ--900-In%20Progress-blue?style=flat-square&logo=microsoft" alt="AZ900 Badge" />
+  <img src="https://img.shields.io/badge/CKA-Kubernetes%20Admin-informational?style=flat-square&logo=linuxfoundation" alt="CKA Badge"
