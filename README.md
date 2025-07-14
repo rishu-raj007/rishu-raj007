@@ -11,37 +11,52 @@
 
 ## 🛠️ Tech Stack
 
-- ☁️ **Azure Cloud** – Cloud-native services & architecture
-- 🌍 **Terraform** – Infrastructure as Code (IaC)
-- 🐳 **Docker** – Lightweight containerization
-- ⚙️ **YAML Pipelines** – CI/CD in Azure DevOps
-- ☸️ **Kubernetes** – Container orchestration at scale
-- ⚛️ **ReactJS** – Frontend with modern JavaScript
+- ☁️ **Azure Cloud** – Cloud-native services & architecture  
+- 🌍 **Terraform** – Infrastructure as Code (IaC)  
+- 🐳 **Docker** – Lightweight containerization  
+- ⚙️ **YAML Pipelines** – CI/CD in Azure DevOps  
+- ☸️ **Kubernetes** – Container orchestration at scale  
+- ⚛️ **ReactJS** – Frontend with modern JavaScript  
 
 ---
 
 ## 🔭 Current Focus
 
-- 🔧 Building scalable CI/CD pipelines
-- ☁️ Automating cloud provisioning with Terraform & Azure
-- 📦 Containerizing applications using Docker & K8s
-- 📈 Learning advanced DevOps practices and site reliability engineering (SRE)
+- 🔧 Building scalable CI/CD pipelines  
+- ☁️ Automating cloud provisioning with Terraform & Azure  
+- 📦 Containerizing applications using Docker & K8s  
+- 📈 Learning advanced DevOps practices and site reliability engineering (SRE)  
 
 ---
 
 ## 📚 Certifications & Learning
 
-- 🎓 *Microsoft Certified: Azure Fundamentals (AZ900)* *(in progress)*
-- 🎓 *Kubernetes Administrator* (In progress)
-- 📘 Always learning: SRE best practices, GitOps, advanced observability
+- 🎓 *Microsoft Certified: Azure Fundamentals (AZ900)* *(in progress)*  
+- 🎓 *Kubernetes Administrator* (In progress)  
+- 📘 Always learning: SRE best practices, GitOps, advanced observability  
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishu-raj007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishu-raj007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishu-raj007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rishu-ravi-raj)
-- 💻 [GitHub](https://github.com/rishu-raj007)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rishu-ravi-raj)  
+- 💻 [GitHub](https://github.com/rishu-raj007)  
 
 ---
 
