@@ -32,7 +32,7 @@
 ## 📚 Certifications & Learning
 
 - 🎓 *Microsoft Certified: Azure Fundamentals (AZ900)* *(in progress)*
-- 🎓 *Kubernetes Administrator* 
+- 🎓 *Kubernetes Administrator* (In progress)
 - 📘 Always learning: SRE best practices, GitOps, advanced observability
 
 
